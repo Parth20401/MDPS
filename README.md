@@ -11,6 +11,23 @@ This webapp was developed using Flask Web Framework. Several ML models were used
 - Malaria
 - Pneumonia
 
+## Sample images of the website
+
+### Home Page
+![Screenshot (257)](https://github.com/Parth20401/MDPS/assets/97301303/085973fb-149c-446f-8794-5c0846560513)
+
+### Heart Disease Prediction page
+![Screenshot (258)](https://github.com/Parth20401/MDPS/assets/97301303/26943161-038a-437f-8177-1a8adaf3cefb)
+
+### Pneumonia prediction page
+![Screenshot (259)](https://github.com/Parth20401/MDPS/assets/97301303/00d5410c-c215-4dc0-a372-c35ee98eb58b)
+
+### Result Page
+![Screenshot (260)](https://github.com/Parth20401/MDPS/assets/97301303/1d47ab97-8a5b-467e-906c-6496c148a2c9)
+
+
+
+
 ## Models with their Accuracy of Prediction
 
 | Disease        | Type of Model            | Accuracy |
@@ -62,6 +79,4 @@ All the datasets were used from kaggle.
 - [Malaria Dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
 - [Pneumonia Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
-## Sample images of the website
 
-### Home Page
