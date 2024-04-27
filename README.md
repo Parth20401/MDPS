@@ -28,7 +28,7 @@ This webapp was developed using Flask Web Framework. Several ML models were used
 
 
 
-## Models with their Accuracy of Prediction
+## Diseases with their prediction accuracy and best model
 
 | Disease        | Best Algorithm           | Accuracy |
 | -------------- | ------------------------ | -------- |
