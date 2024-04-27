@@ -30,15 +30,15 @@ This webapp was developed using Flask Web Framework. Several ML models were used
 
 ## Models with their Accuracy of Prediction
 
-| Disease        | Type of Model            | Accuracy |
+| Disease        | Best Algorithm           | Accuracy |
 | -------------- | ------------------------ | -------- |
-| Diabetes       | Machine Learning Model   | 76.62%   |
-| Breast Cancer  | Machine Learning Model   | 96.49%   |
-| Heart Disease  | Machine Learning Model   | 88.52%   |
-| Kidney Disease | Machine Learning Model   | 99%      |
-| Liver Disease  | Machine Learning Model   | 79.66%   |
-| Malaria        | Deep Learning Model(CNN) | 95.65%   |
-| Pneumonia      | Deep Learning Model(CNN) | 91.35%   |
+| Diabetes       |  Logistic Regression      | 76.62%   |
+| Breast Cancer  |  Logistic Regression      | 96.49%   |
+| Heart Disease  |  Logistic Regression      | 88.52%   |
+| Kidney Disease |   RF Classifier           | 99%      |
+| Liver Disease  |   RF Classifier           | 79.66%   |
+| Malaria        |     CNN                   | 95.65%   |
+| Pneumonia      |     CNN                   | 91.35%   |
 
 ## NOTE
 
